@@ -17,7 +17,11 @@ Les stores devrons etre munis de capteur de pluie pour que la fermeture se face 
 
 3/ Description fonctionelle
 
-3.1/3.2/Diagramme
+3.1/
+![alt tag] (http://nsa33.casimages.com/img/2014/05/12/140512044150949167.png)
+
+
+3.2/
 ![alt tag] (http://nsa33.casimages.com/img/2014/05/12/140512122323530162.png)
 
 4/composants, prix et liens :
