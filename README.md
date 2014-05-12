@@ -1,6 +1,6 @@
 1/ croquis
 
-http://www.casimages.com/img.php?i=140510113744599809.png
+![alt tag](http://nsa33.casimages.com/img/2014/05/10/140510113744599809.png)
 
 2/Cahier des charges
 
